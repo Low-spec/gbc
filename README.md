@@ -11,3 +11,6 @@
 * **Tuesday**
     * 14:00 - [MATH1162 - Mathematics for Computer Technology 1](https://learn.georgebrown.ca/d2l/home/319780)
     * 18:00 - [COMP1234 - Introduction to Web Development](https://learn.georgebrown.ca/d2l/home/342908)
+* **Wedenesday**
+    * 10:00 - [COMP1234 - Introduction to Web Development](https://learn.georgebrown.ca/d2l/home/342908)
+    * 15:00 - [COMM2000 - Communicating Across Contexts](https://learn.georgebrown.ca/d2l/home/324964)
